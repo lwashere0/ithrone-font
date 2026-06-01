@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Ithornet",
+    "previewText": "Ithornet font",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "ggsans-Bold": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "ggsans-BoldItalic": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "ggsans-ExtraBold": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "ggsans-Medium": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "ggsans-MediumItalic": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "ggsans-Normal": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "ggsans-NormalItalic": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "ggsans-Semibold": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "NotoSans-Bold": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "NotoSans-ExtraBold": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "NotoSans-Medium": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "NotoSans-Normal": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "NotoSans-NormalItalic": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "NotoSans-Semibold": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf",
+        "ggmono-Normal": "https://github.com/GlockFatherDraco/discord-client-themes/raw/refs/heads/main/rain/fonts/ithornet/files/Ithornet.ttf"
+    }
+}
